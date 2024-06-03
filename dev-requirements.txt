@@ -115,7 +115,7 @@ pytz==2024.1
     # via pandas
 pyyaml==6.0.1
     # via pre-commit
-requests==2.32.0
+requests==2.32.2
     # via sphinx
 rich==13.7.1
     # via typer
