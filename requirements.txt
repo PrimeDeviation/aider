@@ -293,7 +293,7 @@ toml==0.10.2
     # via streamlit
 toolz==0.12.1
     # via altair
-tornado==6.4
+tornado==6.4.1
     # via streamlit
 tqdm==4.66.4
     # via
@@ -321,6 +321,8 @@ uritemplate==4.1.1
     # via google-api-python-client
 urllib3==2.2.1
     # via requests
+watchdog==4.0.1
+    # via streamlit
 wcwidth==0.2.13
     # via prompt-toolkit
 yarl==1.9.4
