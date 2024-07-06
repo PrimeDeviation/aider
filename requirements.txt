@@ -31,7 +31,7 @@ cachetools==5.3.3
     # via
     #   google-auth
     #   streamlit
-certifi==2024.6.2
+certifi==2024.7.4
     # via
     #   httpcore
     #   httpx
@@ -323,7 +323,9 @@ uritemplate==4.1.1
 urllib3==2.2.1
     # via requests
 watchdog==4.0.1
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   streamlit
 wcwidth==0.2.13
     # via prompt-toolkit
 yarl==1.9.4
