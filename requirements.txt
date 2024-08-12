@@ -280,7 +280,7 @@ soundfile==0.12.1
     # via -r requirements.in
 soupsieve==2.5
     # via beautifulsoup4
-streamlit==1.35.0
+streamlit==1.37.0
     # via -r requirements.in
 tenacity==8.3.0
     # via streamlit
@@ -323,7 +323,9 @@ uritemplate==4.1.1
 urllib3==2.2.1
     # via requests
 watchdog==4.0.1
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   streamlit
 wcwidth==0.2.13
     # via prompt-toolkit
 yarl==1.9.4
